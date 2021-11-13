@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Canon](https://github.com/domcloud/domcloud-io/raw/master/assets/bg/canon.png)
+
 DOM Cloud is a place to host your web apps. You found where our projects hosted 🔥.
 
 Here are repos you might want to look at:
