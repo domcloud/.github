@@ -12,4 +12,8 @@ Here are repos you might want to look at:
 + [bridge](https://github.com/domcloud/bridge) &mdash; The webserver to control individual servers within DOM Cloud.
 + [container](https://github.com/domcloud/container) &mdash; The private container to run your own DOM Cloud.
 
+Some updates (yes we currently don't have a blog platform yet, hang in there!)
+
++ [Where's the portal repository?](https://github.com/domcloud/domcloud-co/discussions/19)
+
 We build DOM Cloud with 💘. Try to host your next website projects with us 🤗.
