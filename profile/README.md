@@ -14,6 +14,7 @@ Here are repos you might want to look at:
 
 Some updates (yes we currently don't have a blog platform yet, hang in there!)
 
++ [Preparing for Team Plan](https://github.com/domcloud/domcloud-co/discussions/20)
 + [Where's the portal repository?](https://github.com/domcloud/domcloud-co/discussions/19)
 
 We build DOM Cloud with 💘. Try to host your next website projects with us 🤗.
