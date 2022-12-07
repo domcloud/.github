@@ -1,20 +1,15 @@
 ## Hi there 👋
 
-![Canon](https://github.com/domcloud/domcloud-io/raw/master/assets/bg/canon.png)
+![Canon](https://raw.githubusercontent.com/domcloud/domcloud/master/static/assets/bg/canon.png)
 
 DOM Cloud is a place to host your web apps. You found where our projects hosted 🔥.
 
 Here are repos you might want to look at:
 
-+ [domcloud-co](https://github.com/domcloud/domcloud-co) &mdash; [The main site](http://domcloud.co/), documentation and discussion forum.
++ [domcloud](https://github.com/domcloud/domcloud) &mdash; [The main site](http://domcloud.co/), documentation and discussion forum.
 + [domcloud-id](https://github.com/domcloud/domcloud-id) &mdash; Indonesian [alternate site](http://domcloud.id/) to domcloud.io.
-+ [templates](https://github.com/domcloud/templates) &mdash; Templates for deploying popular frameworks in DOM Cloud.
++ [recipes](https://github.com/domcloud/recipes) &mdash; Templates for deploying popular frameworks in DOM Cloud.
 + [bridge](https://github.com/domcloud/bridge) &mdash; The webserver to control individual servers within DOM Cloud.
-+ [container](https://github.com/domcloud/container) &mdash; The private container to run your own DOM Cloud.
-
-Some updates (yes we currently don't have a blog platform yet, hang in there!)
-
-+ [Preparing for Team Plan](https://github.com/domcloud/domcloud-co/discussions/20)
-+ [Where's the portal repository?](https://github.com/domcloud/domcloud-co/discussions/19)
++ [container](https://github.com/domcloud/container) &mdash; (Upcoming) private container to run your own DOM Cloud.
 
 We build DOM Cloud with 💘. Try to host your next website projects with us 🤗.
